@@ -97,12 +97,4 @@ oder fest in main.py
 -------------------------------------------------------
 import os
 os.environ["MOZ_ENABLE_WAYLAND"] = "0"
-import re
-import sys
-import time
-import subprocess
-from pathlib import Path
-import argparse
-import shutil
-
 
