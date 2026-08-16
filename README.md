@@ -94,7 +94,7 @@ Erstellt am 2026-02-26
 export MOZ_ENABLE_WAYLAND=0 python3 main.py
 .....................................................
 oder fest in main.py 
-
+-------------------------------------------------------
 import os
 os.environ["MOZ_ENABLE_WAYLAND"] = "0"
 import re
